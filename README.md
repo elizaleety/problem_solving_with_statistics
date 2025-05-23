@@ -1,6 +1,6 @@
 # problem_solving_with_statistics
 
-# 📊 Data Analysis
+## 📊 Data Analysis
 
 A data analysis project to solve case problems with statistical method using Python.
 
